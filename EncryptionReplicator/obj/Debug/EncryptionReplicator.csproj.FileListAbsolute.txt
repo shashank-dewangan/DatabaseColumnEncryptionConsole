@@ -1,0 +1,13 @@
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\bin\Debug\EncryptionReplicator.exe.config
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\bin\Debug\EncryptionReplicator.exe
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\bin\Debug\EncryptionReplicator.pdb
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\obj\Debug\EncryptionReplicator.csprojResolveAssemblyReference.cache
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\obj\Debug\EncryptionReplicator.exe
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\obj\Debug\EncryptionReplicator.pdb
+C:\Projects\CT JIRA\DevelopmentEncryption\src\States\CT\Tools\EncryptionReplicator\EncryptionReplicator\bin\Debug\CVREncryptionEngine.dll
+C:\Sample Projects\EncryptionEngine\EncryptionReplicator\EncryptionReplicator\bin\Debug\EncryptionReplicator.exe.config
+C:\Sample Projects\EncryptionEngine\EncryptionReplicator\EncryptionReplicator\obj\Debug\EncryptionReplicator.exe
+C:\Sample Projects\EncryptionEngine\EncryptionReplicator\EncryptionReplicator\obj\Debug\EncryptionReplicator.pdb
+C:\Sample Projects\EncryptionEngine\EncryptionReplicator\EncryptionReplicator\bin\Debug\EncryptionReplicator.exe
+C:\Sample Projects\EncryptionEngine\EncryptionReplicator\EncryptionReplicator\bin\Debug\EncryptionReplicator.pdb
+C:\Sample Projects\EncryptionEngine\EncryptionReplicator\EncryptionReplicator\bin\Debug\CVREncryptionEngine.dll
