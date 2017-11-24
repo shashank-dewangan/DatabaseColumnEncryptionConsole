@@ -1,6 +1,6 @@
 # DatabaseColumnEncryptionConsole
 
-This solution can be used to encrypt a column value and copy to another column in database.
+This solution can be used to encrypt a column value and copy to another column in database table.
 
 ## Need to mention below entry in config :
 1. Table name for key="TableName" 
