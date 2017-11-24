@@ -114,7 +114,7 @@ namespace EncryptionReplicator
                 {
                     var com = new SqlCommand
                     {
-                        CommandText = "updOwnerForEncryption",
+                        CommandText = "updTableForEncryption",
                         CommandType = CommandType.StoredProcedure
                     };
 
@@ -155,7 +155,7 @@ namespace EncryptionReplicator
                 {
                     var com = new SqlCommand
                     {
-                        CommandText = "getOwnerInformationForEncryption",
+                        CommandText = "getInformationForEncryption",
                         CommandType = CommandType.StoredProcedure
                     };
 
